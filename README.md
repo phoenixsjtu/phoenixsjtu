@@ -1,75 +1,47 @@
-<a href="https://phoenixsjtu.github.io"><img src="https://raw.githubusercontent.com/phoenixsjtu/phoenixsjtu/main/assets/header.svg" width="100%" alt="Yafei Deng — Industrial intelligence, built in the open. PHM · Transfer Learning · Semiconductor Equipment" /></a>
+# Yafei Deng
 
-<p align="center">
-  <a href="https://phoenixsjtu.github.io"><b>个人主页 ↗</b></a> &nbsp; · &nbsp;
-  <a href="https://scholar.google.com/citations?user=-mW9Ny0AAAAJ&hl=zh-CN">Google Scholar</a> &nbsp; · &nbsp;
-  <a href="https://github.com/phoenixdyf">历史开源项目</a>
-</p>
+Research engineer working on intelligent semiconductor equipment at **AMEC**. My interests span **physics + AI, digital twins, and predictive maintenance**.
 
-### Hi, I'm Yafei Deng.
+**[@phoenixsjtu](https://github.com/phoenixsjtu) is my current account.** Earlier research code and open-source resources remain on [@phoenixdyf](https://github.com/phoenixdyf).
 
-研究设备如何感知自身状态，以及算法如何帮助设备更可靠地运行。我的工作连接 **设备预测性维护、迁移学习与半导体设备智能化**。
+[Website · English](https://phoenixsjtu.github.io/?lang=en) · [中文主页](https://phoenixsjtu.github.io/?lang=zh) · [Google Scholar](https://scholar.google.com/citations?user=-mW9Ny0AAAAJ)
 
-**`phoenixsjtu` 是我目前使用的 GitHub 账号。** 早期研究代码与开源资料保留在 [@phoenixdyf](https://github.com/phoenixdyf)，下方精选项目直接链接到原仓库。
+## Research
 
-<br />
-
-## 01 / Research & Engineering
-
-| 研究方向 | 关注的问题 |
+| Direction | Focus |
 | :--- | :--- |
-| **半导体设备智能化** | 面向半导体设备开展智能化研究 |
-| **Prognostics & Health Management** | 设备预测性维护、故障诊断与剩余寿命预测 |
-| **Transfer Learning** | 跨工况、跨设备迁移，以及开放集故障诊断 |
-| **Open Research** | 分享研究代码、整理公开数据集与振动分析资料 |
+| **Physics + AI** | Physics-constrained learning (PINNs), physics-informed data enrichment, and hybrid physical–data surrogate models. |
+| **Digital twins** | Static twins for design optimization, semi-dynamic twins for virtual process validation, and dynamic twins for operational monitoring. |
+| **Predictive maintenance** | Anomaly detection, fault diagnosis, and root-cause tracing. |
 
-## 02 / Selected Open Source
+## Selected open source
+
+Current repositories focus on predictive maintenance. Digital twin and semiconductor physics + AI projects will be added as they become available.
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3>01 · PHM Dataset Collection</h3>
-<p>面向故障诊断、健康评估与寿命预测的开源数据集整理，覆盖多种工业设备与应用场景。</p>
-<p><code>PHM</code> <code>Datasets</code> <code>Research Resources</code></p>
-<a href="https://github.com/phoenixdyf/Opensource_Dataset_Compilation_for_PHM"><b>浏览数据集 →</b></a>
+<td width="200" align="center" valign="top">
+<a href="https://doi.org/10.1016/j.neucom.2023.126391"><img src="https://phoenixsjtu.github.io/projects/tptln-paper.png" width="180" alt="Original first page of the TPTLN paper in Neurocomputing, 2023" /></a>
 </td>
-<td width="50%" valign="top">
-<h3>02 · Theory-guided Transfer Learning</h3>
-<p>结合理论边界与深度对抗网络，探索机械故障开放集诊断迁移。包含 TPTLN 研究演示代码。</p>
-<p><code>Open-set Diagnosis</code> <code>Transfer Learning</code></p>
-<a href="https://github.com/phoenixdyf/Theory-guided-Progressive-Transfer-Learning-Network"><b>查看研究代码 →</b></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>03 · Transfer Learning on CWRU</h3>
-<p>基于 CWRU 数据集的迁移学习实验，整理特征、参数与对抗迁移方法的 Notebook。</p>
-<p><code>Bearings</code> <code>Domain Adaptation</code> <code>Notebooks</code></p>
-<a href="https://github.com/phoenixdyf/Transfer-Learning-for-CWRU-dataset"><b>探索实验 →</b></a>
-</td>
-<td width="50%" valign="top">
-<h3>04 · Mechanical Vibration Features</h3>
-<p>机械振动分析特征参考，整理特征含义、计算方法及其在设备状态分析中的应用。</p>
-<p><code>Signal Processing</code> <code>Feature Engineering</code></p>
-<a href="https://github.com/phoenixdyf/Feature-Introduction-for-Mechanical-Vibration-Analysis"><b>阅读特征指南 →</b></a>
+<td valign="top">
+<h3>Theory-guided transfer learning</h3>
+<p>Progressive transfer learning for open-set machinery fault diagnosis.</p>
+<p><em>Combining the theoretical bound and deep adversarial network for machinery open-set diagnosis transfer.</em><br />Yafei Deng, Jun Lv, Delin Huang, Shichang Du.<br />Neurocomputing, 2023.</p>
+<p><a href="https://github.com/phoenixdyf/Theory-guided-Progressive-Transfer-Learning-Network">Code ↗</a> · <a href="https://doi.org/10.1016/j.neucom.2023.126391">Paper ↗</a></p>
 </td>
 </tr>
 </table>
 
-## 03 / Experience
+- **[PHM dataset collection](https://github.com/phoenixdyf/Opensource_Dataset_Compilation_for_PHM)** — Public datasets for fault diagnosis, health assessment, and remaining useful life prediction.
+- **[CWRU transfer learning](https://github.com/phoenixdyf/Transfer-Learning-for-CWRU-dataset)** — Feature-based, parameter-based, and adversarial transfer learning experiments for bearing diagnosis.
+- **[Mechanical vibration features](https://github.com/phoenixdyf/Feature-Introduction-for-Mechanical-Vibration-Analysis)** — Feature definitions and formulas for vibration analysis.
 
-| 时间 | 经历 | 研究内容 |
+## Experience
+
+| Organization | Period | Research |
 | :--- | :--- | :--- |
-| **2026 — 至今** | **中微** | 面向半导体设备开展智能化研究 |
-| **2024 — 2026** | **华为中央技术研究院** | 设备预测性维护算法研究 |
-| **2024.03** | **上海交通大学 · 博士毕业** | Ph.D., Shanghai Jiao Tong University |
+| <img src="https://phoenixsjtu.github.io/logos/amec.png" width="58" alt="AMEC" /><br />**AMEC** | 2026–present | Intelligent semiconductor equipment |
+| <img src="https://phoenixsjtu.github.io/logos/huawei.svg" width="42" alt="Huawei" /><br />**Huawei Central Research Institute** | 2024–2026 | Equipment predictive maintenance algorithm research |
+| <img src="https://phoenixsjtu.github.io/logos/sjtu.png" width="36" alt="SJTU" /><br />**Shanghai Jiao Tong University** | March 2024 | Ph.D. |
 
-## 04 / Research Links
-
-[Google Scholar](https://scholar.google.com/citations?user=-mW9Ny0AAAAJ&hl=zh-CN) · [ResearchGate](https://www.researchgate.net/profile/Yafei-Deng) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57201215111)
-
-欢迎围绕设备智能化、PHM、迁移学习与开源研究交流。
-
-<br />
-
-<sub>Yafei Deng · Current account: <a href="https://github.com/phoenixsjtu">@phoenixsjtu</a> · Earlier work: <a href="https://github.com/phoenixdyf">@phoenixdyf</a></sub>
+[Google Scholar](https://scholar.google.com/citations?user=-mW9Ny0AAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Yafei-Deng) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57201215111)
