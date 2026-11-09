@@ -11,7 +11,7 @@ Research engineer at **AMEC**, working on intelligent semiconductor equipment. M
 | **01 Papers** | [Theory-guided progressive transfer learning for open-set machinery fault diagnosis](https://doi.org/10.1016/j.neucom.2023.126391) · *Neurocomputing*, 2023 |
 | **02 Datasets** | [Rotating Machinery PHM Datasets](https://github.com/phoenixsjtu/Rotating-Machinery-PHM-Datasets) · 38 dataset entries for diagnosis, monitoring, and RUL |
 | **03 Algorithm code** | [TPTLN](https://github.com/phoenixsjtu/Theory-guided-Progressive-Transfer-Learning-Network) · [CWRU transfer learning](https://github.com/phoenixsjtu/Transfer-Learning-for-CWRU-dataset) · [Vibration features](https://github.com/phoenixsjtu/Feature-Introduction-for-Mechanical-Vibration-Analysis) |
-| **04 Interface tools** | [PHM Workbench live demo](https://phoenixsjtu.github.io/PHM-Workbench/) · [Source](https://github.com/phoenixsjtu/PHM-Workbench) · Interactive blueprint editor with demo data |
+| **04 Interface tools** | [PHM Studio live demo](https://phoenixsjtu.github.io/PHM-Workbench/) · [Source](https://github.com/phoenixsjtu/PHM-Workbench) · CSV import, vibration feature extraction, and spectrum analysis with example data |
 
 ## Experience
 
