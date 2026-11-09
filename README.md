@@ -2,7 +2,7 @@
 
 Research engineer working on intelligent semiconductor equipment at **AMEC**. My interests span **physics + AI, digital twins, and predictive maintenance**.
 
-**[@phoenixsjtu](https://github.com/phoenixsjtu) is my current account.** Earlier research code and open-source resources remain on [@phoenixdyf](https://github.com/phoenixdyf).
+**[@phoenixsjtu](https://github.com/phoenixsjtu) is my current account for research code and open-source resources.** [@phoenixdyf](https://github.com/phoenixdyf) is my previous account.
 
 [Website · English](https://phoenixsjtu.github.io/?lang=en) · [中文主页](https://phoenixsjtu.github.io/?lang=zh) · [Google Scholar](https://scholar.google.com/citations?user=-mW9Ny0AAAAJ)
 
@@ -27,14 +27,14 @@ Current repositories focus on predictive maintenance. Digital twin and semicondu
 <h3>Theory-guided transfer learning</h3>
 <p>Progressive transfer learning for open-set machinery fault diagnosis.</p>
 <p><em>Combining the theoretical bound and deep adversarial network for machinery open-set diagnosis transfer.</em><br />Yafei Deng, Jun Lv, Delin Huang, Shichang Du.<br />Neurocomputing, 2023.</p>
-<p><a href="https://github.com/phoenixdyf/Theory-guided-Progressive-Transfer-Learning-Network">Code ↗</a> · <a href="https://doi.org/10.1016/j.neucom.2023.126391">Paper ↗</a></p>
+<p><a href="https://github.com/phoenixsjtu/Theory-guided-Progressive-Transfer-Learning-Network">Code ↗</a> · <a href="https://doi.org/10.1016/j.neucom.2023.126391">Paper ↗</a></p>
 </td>
 </tr>
 </table>
 
-- **[PHM dataset collection](https://github.com/phoenixdyf/Opensource_Dataset_Compilation_for_PHM)** — Public datasets for fault diagnosis, health assessment, and remaining useful life prediction.
-- **[CWRU transfer learning](https://github.com/phoenixdyf/Transfer-Learning-for-CWRU-dataset)** — Feature-based, parameter-based, and adversarial transfer learning experiments for bearing diagnosis.
-- **[Mechanical vibration features](https://github.com/phoenixdyf/Feature-Introduction-for-Mechanical-Vibration-Analysis)** — Feature definitions and formulas for vibration analysis.
+- **[Rotating Machinery PHM Datasets](https://github.com/phoenixsjtu/Rotating-Machinery-PHM-Datasets)** — A catalog of datasets for fault diagnosis, condition monitoring, and remaining useful life estimation.
+- **[CWRU transfer learning](https://github.com/phoenixsjtu/Transfer-Learning-for-CWRU-dataset)** — Feature-based, parameter-based, and adversarial transfer learning experiments for bearing diagnosis.
+- **[Mechanical vibration features](https://github.com/phoenixsjtu/Feature-Introduction-for-Mechanical-Vibration-Analysis)** — Feature definitions and formulas for vibration analysis.
 
 ## Experience
 
